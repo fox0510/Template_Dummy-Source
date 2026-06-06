@@ -1,0 +1,24 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/dummy/players_sheet"
+	"$surfaceprop" "Flesh"
+	"$nolod" 1
+	// ------------------------------------------------------------------------
+	// PLAYER COLOR CUSTOMIZATION
+	// ------------------------------------------------------------------------
+	
+	// The following chain of proxies is to modulate phong tint (and rimlight,
+	// by extension) according to your chosen player color, but only within a
+	// certain saturation range: 50%. This might be confusing, I tried my best
+	// to comment it, e-mail maxofs2d@facepunchstudios.com if you have any
+	// questions regarding how player colourability is set up in VMTs. GLHF.
+	
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2 // pass the player color value to Gmod.
+		}
+	}
+}

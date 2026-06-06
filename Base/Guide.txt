@@ -1,0 +1,38 @@
+Template_Dummy Source Files Guide
+
+1. The two .gltf files are the original Blender-exported source files:
+   
+   - One for the Playermodel
+   - One for the C_Arms
+
+2. Source Engine files:
+   
+   - Playermodel SMD/QC files are located in:
+     dummy/QC
+   - C_Arms SMD/QC files are located in:
+     dummy/C_Hands
+
+3. Material:
+
+   - Materials are located in:
+     dummy/QC/MAT
+   [note]
+   - players_sheet.vtf (colorable)
+   - 2.vtf (gray)
+   - 3.vtf (outline black)
+   - Put the materials to the materials folder in GarrysMod/garrysmod
+
+4. Compiled models:
+   
+   - The "output" folder contains the already compiled Source Engine models (.mdl, .vvd, .vtx, etc.).
+
+5. Addon files:
+   
+   - The "dummy_test" folder is the complete Garry's Mod addon and can be placed directly into the addons folder.
+
+6. Notes:
+   
+   - This project is intended as a learning resource and starter template.
+   - Feel free to modify and use it as a base for your own characters.
+   - If you make improvements, consider sharing them with the community.
+   - Credit is appreciated! and dm me so i can put your modification in a collection!
