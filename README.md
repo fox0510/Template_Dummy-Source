@@ -1,4 +1,4 @@
-# Template_Dummy [Source] MAIN
+# Template_Dummy [Source]
 
 Source files for the Steam Workshop addon:
 
