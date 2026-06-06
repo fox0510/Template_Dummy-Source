@@ -31,4 +31,4 @@ Created by Kitsune_4460.
 ## Community Projects
 
 If you create a playermodel using this base, let me know!
-I may add it to the Template_Dummy community collection.
+I may add it to the [Template_Dummy community collection](https://steamcommunity.com/workshop/filedetails/?id=3435479215).
