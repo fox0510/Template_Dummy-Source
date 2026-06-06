@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/dummy/2"
+	"$surfaceprop" "Flesh"
+	"$nolod" 1
+}
