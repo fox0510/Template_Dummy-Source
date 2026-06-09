@@ -14,7 +14,7 @@ Go to the [Releases](https://github.com/fox0510/Template_Dummy-Source/releases) 
 - C_Arms source files
 - QC files
 - Materials
-- Blender-exported source files (.gltf)
+- Blender-exported source files (.gltf & .smd)
 - Compiled models
 - Example addon files
 
